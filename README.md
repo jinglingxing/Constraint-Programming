@@ -1,5 +1,5 @@
 # Constraint-Programming
-##TP1 problem:
+## TP1 problem:
 The NHL (National Hurling League) in Ireland asks you to plan
 the schedule of his matches. Constraint programming is well known
 leaders of this league, this approach is imposed on you.
