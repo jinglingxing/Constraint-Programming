@@ -1,7 +1,8 @@
 # Constraint-Programming
 ## TP1 problem:
 The NHL (National Hurling League) in Ireland asks you to plan
-the schedule of his matches. Constraint programming is well known
+the schedule of his matches.
+Constraint programming is well known
 leaders of this league, this approach is imposed on you.
 For a number of teams n variable but always even, it is a question of organizing
 a simple round-robin tournament (ie each team plays against each
