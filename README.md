@@ -1,5 +1,10 @@
 # Constraint-Programming
-**Author**: TP1: Jinling XING jinling.xing@polymtl.ca
+**Author**: TP1: Jinling XING jinling.xing@polymtl.ca <br>
+TP2 is a group work.<br>
+Team members:<br>
+Mahshid Mohammadadalitajrishi<br>
+Thibault Noilly<br>
+Jinling XING <br>
 ## TP1 problem:
 TP1 is a match schedule problem wrote by Minizinc language. What I did are safisfied several strict constraints for given instances and found solutions and tested results at different consistency level using mzn-gecode and compared two significant models performances, such as failures, search tree, runtime. **Unfortunately, Github cannot detect Minizinc language**, it is very niche, but powerful for CSPs. The website of Minizinc is: [Minizinc](http://www.minizinc.org/)
 
