@@ -24,3 +24,6 @@ The detailed info of questions, please click the link: [TP2 questions](https://g
 
 The code: click the link beside: [code](https://github.com/jinglingxing/Constraint-Programming/blob/master/TP2_miniCP/Cumulative.java)
 
+## Project:
+My project is based on compact table on OscaR. The basic computing of solution density.
+The [OscaR：](https://bitbucket.org/oscarlib/oscar/wiki/Home)
